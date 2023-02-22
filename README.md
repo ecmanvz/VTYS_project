@@ -8,3 +8,4 @@ Devamsızlık, Yemekhane, Okul’un sahip olduğu Demirbaşlar gibi
 birçok varlık bulunmaktadır.
 PostgreSql veritabanı yönetim sistemi ve Python programlama dili
 kullanılarak geliştirilmiştir.
+-Detaylı anlatım rapor.pdf kısmında yer almaktadır.
